@@ -1,0 +1,28 @@
+body{
+    background-color: #F9F5E7;
+    font-family: sans-serif;
+}
+
+hr{
+    border-style: none;
+    width: 5%;
+    border-top: dotted;
+    border-top-width: 6px;
+    border-color: grey;
+}
+
+h1, h3{
+    font-family: cursive;
+}
+
+h1{
+    color: #B99B6B;
+}
+
+h3{
+    color: rgb(205, 175, 127);
+}
+
+a{
+    font-family: 'Segoe UI';
+}
